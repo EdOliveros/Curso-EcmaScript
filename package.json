@@ -12,5 +12,6 @@
     "ecmaScript"
   ],
   "author": "Ed Oliveros <edgarolimoy98@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "type": "module"
 }
