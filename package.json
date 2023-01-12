@@ -13,5 +13,8 @@
   ],
   "author": "Ed Oliveros <edgarolimoy98@gmail.com>",
   "license": "MIT",
-  "type": "module"
+  "type": "module",
+  "dependencies": {
+    "node-fetch": "^3.3.0"
+  }
 }
